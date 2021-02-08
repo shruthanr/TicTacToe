@@ -1,3 +1,4 @@
+# The code in this file from the course CS50 AI
 import pygame
 import sys
 import time
